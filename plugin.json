@@ -1,0 +1,10 @@
+{
+	"name": "Font Awesome",
+	"version": "1.0.0",
+	"description": "Replace navigation links with Font Awesome icons.",
+    "documentation": "https://github.com/wilsonlewis/koken-font-awesome",
+	"author": {
+		"name": "Wilson Lewis",
+		"link": "https://github.com/wilsonlewis"
+	}
+}
